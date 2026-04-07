@@ -1,44 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Scan to Review — Seamless Feedback Bridging
 
-Scan to Review — Seamless Feedback Bridging
-A full-stack solution connecting physical consumer interactions with digital data analytics.
+<p align="center">
+  <img src="public/screenshots/banner.png" alt="Scan to Review Banner" width="100%">
+</p>
 
-🚀 Project Overview
-Scan to Review is a high-performance web application designed to bridge the gap between offline experiences and online feedback loops. By leveraging QR-based triggers, it allows users to provide instant reviews while providing businesses with structured, actionable data.
-This project demonstrates my proficiency in full-stack development, system architecture, and UI/UX optimization within the Next.js ecosystem.
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel" alt="Vercel">
+</p>
 
-✨ Key Features
-• Dynamic QR Interaction: Instant redirection to specific review modules via unique identifiers.
-• Optimized Performance: Built with Next.js App Router for faster Server-Side Rendering (SSR) and SEO efficiency.
-• Responsive Design: A mobile-first approach ensuring a premium experience across all devices.
-• Data Integrity: Built-in validation to ensure high-quality, structured feedback from end-users.
-🛠️ Tech Stack
-• Frontend: Next.js (React), TypeScript, Tailwind CSS.
-• Optimization: Next/Font & Next/Image for automated asset optimization.
-• Deployment: Optimized for Vercel and edge computing environments.
-📈 Future Roadmap (AI Integration)
-• Sentiment Analysis: Integrating NLP models to automatically categorize review sentiments (Positive/Neutral/Negative).
-• Predictive Analytics: Using historical feedback data to forecast consumer trends.
-• Automated Summarization: Utilizing LLMs to provide businesses with daily concise summaries of user feedback.
+---
 
+## 🚀 Project Overview
 
-## Getting Started
+**Scan to Review** is a high-performance web application designed to bridge the gap between offline experiences and online feedback loops. By leveraging QR-based triggers, it allows users to provide instant reviews while providing businesses with structured, actionable data.
 
-First, run the development server:
+This project demonstrates proficiency in full-stack development, system architecture, and UI/UX optimization within the Next.js ecosystem.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <img src="public/screenshots/preview.png" alt="App Preview" width="600px">
+</p>
+
+---
+
+## ✨ Key Features
+
+* **Dynamic QR Interaction:** Instant redirection to specific review modules via unique identifiers.
+* **Optimized Performance:** Built with Next.js App Router for faster Server-Side Rendering (SSR) and SEO efficiency.
+* **Responsive Design:** A mobile-first approach ensuring a premium experience across all devices.
+* **Data Integrity:** Built-in validation to ensure high-quality, structured feedback from end-users.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js (React), TypeScript, Tailwind CSS |
+| **Optimization** | Next/Font & Next/Image for automated asset optimization |
+| **Deployment** | Optimized for Vercel and edge computing environments |
+
+---
+
+## 📈 Future Roadmap (AI Integration)
+
+- [ ] **Sentiment Analysis:** Integrating NLP models to automatically categorize review sentiments (Positive/Neutral/Negative).
+- [ ] **Predictive Analytics:** Using historical feedback data to forecast consumer trends.
+- [ ] **Automated Summarization:** Utilizing LLMs to provide businesses with daily concise summaries of user feedback.
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+- Node.js 18.x or later
+- npm / yarn / pnpm
+
+### Installation & Run
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/your-username/scan-to-review.git](https://github.com/your-username/scan-to-review.git)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
