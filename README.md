@@ -1,5 +1,27 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Scan to Review — Seamless Feedback Bridging
+A full-stack solution connecting physical consumer interactions with digital data analytics.
+
+🚀 Project Overview
+Scan to Review is a high-performance web application designed to bridge the gap between offline experiences and online feedback loops. By leveraging QR-based triggers, it allows users to provide instant reviews while providing businesses with structured, actionable data.
+This project demonstrates my proficiency in full-stack development, system architecture, and UI/UX optimization within the Next.js ecosystem.
+
+✨ Key Features
+• Dynamic QR Interaction: Instant redirection to specific review modules via unique identifiers.
+• Optimized Performance: Built with Next.js App Router for faster Server-Side Rendering (SSR) and SEO efficiency.
+• Responsive Design: A mobile-first approach ensuring a premium experience across all devices.
+• Data Integrity: Built-in validation to ensure high-quality, structured feedback from end-users.
+🛠️ Tech Stack
+• Frontend: Next.js (React), TypeScript, Tailwind CSS.
+• Optimization: Next/Font & Next/Image for automated asset optimization.
+• Deployment: Optimized for Vercel and edge computing environments.
+📈 Future Roadmap (AI Integration)
+• Sentiment Analysis: Integrating NLP models to automatically categorize review sentiments (Positive/Neutral/Negative).
+• Predictive Analytics: Using historical feedback data to forecast consumer trends.
+• Automated Summarization: Utilizing LLMs to provide businesses with daily concise summaries of user feedback.
+
+
 ## Getting Started
 
 First, run the development server:
