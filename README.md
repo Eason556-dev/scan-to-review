@@ -1,8 +1,7 @@
 # Scan to Review — Seamless Feedback Bridging
 
 <p align="center">
-  <img src="public/screenshots/banner.png" alt="Scan to Review Banner" width="100%">
-</p>
+  <img src="public/screenshot/preview.gif" alt="Scan to Review preview" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" alt="Next.js">
@@ -19,8 +18,6 @@
 
 This project demonstrates proficiency in full-stack development, system architecture, and UI/UX optimization within the Next.js ecosystem.
 
-<p align="center">
-  <img src="public/screenshots/preview.png" alt="App Preview" width="600px">
 </p>
 
 ---
@@ -62,7 +59,7 @@ This project demonstrates proficiency in full-stack development, system architec
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/scan-to-review.git](https://github.com/your-username/scan-to-review.git)
+   git clone https://github.com/Eason556-dev/scan-to-review.git
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
